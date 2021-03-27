@@ -1,2 +1,3 @@
 ﻿  concatenateList.cpp
+E:\Escuela\6to Semestre\Software Quality and Testing\Codigos\concatenateList\concatenateList\concatenateList.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
   concatenateList.vcxproj -> E:\Escuela\6to Semestre\Software Quality and Testing\Codigos\concatenateList\Debug\concatenateList.exe
